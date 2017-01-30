@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EventMaker.Model
 {
-    class EventCatalogSingleton
+    public class EventCatalogSingleton
     {
     }
 }
